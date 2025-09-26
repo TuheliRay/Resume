@@ -22,11 +22,8 @@ export default function Footer() {
           <a href="https://x.com/Tuheli_Ray" className="hover:text-sky-400">
             <FaTwitter />
           </a>
-          <a className="flex items-center gap-2 ">
+          <a href="https://mail.google.com/mail/?view=cm&fs=1&to=tuheliray@gmail.com" className="flex items-center gap-2 ">
             <SiGmail />
-            <span className="text-base font-mono hidden sm:inline">
-              tuheliray@gmail.com
-            </span>
           </a>
         </div>
       </div>
