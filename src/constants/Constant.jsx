@@ -12,6 +12,9 @@ import MySQL from "../assets/mysql.png";
 import MongoDB from "../assets/mongodb.png";
 import Java from "../assets/java.png";
 import JIS from "../assets/JIS.jpeg";
+import H2 from "../assets/H2.png";
+import postman from "../assets/postman.png";
+import node from "../assets/node.png";
 export {
   C,
   CPP,
