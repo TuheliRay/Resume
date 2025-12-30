@@ -11,6 +11,7 @@ import react from "../assets/react.png";
 import MySQL from "../assets/mysql.png";
 import MongoDB from "../assets/mongodb.png";
 import Java from "../assets/java.png";
+import JIS from "../assets/JIS.jpeg";
 export {
   C,
   CPP,
@@ -25,4 +26,5 @@ export {
   MySQL,
   MongoDB,
   Java,
+  JIS
 };

@@ -20,8 +20,7 @@ const ProjectData=[
     title:'Spring Boot Student Management API',
     description:"RESTful backend service for managing student records with full CRUD functionality, built using Spring Boot and H2 in-memory database.",
     tags:["Java", "Spring Boot", "REST API", "H2 Database", "Backend"],
-    codeLink:"https://github.com/TuheliRay/Student-Data-Management-System",
-    liveLink:"https://student-data-management-system.vercel.app/"
+    codeLink:"https://github.com/TuheliRay/Spring-Boot-Basics",
 },
 {
     title:'Anime Watchlist',

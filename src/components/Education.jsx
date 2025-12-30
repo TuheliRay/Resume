@@ -1,6 +1,7 @@
 import { useEffect } from "react";
 import Lottie from "lottie-react";
 import education from "../assets/lottie/education.json";
+import {JIS} from "../constants/Constant.jsx";
 import AOS from "aos";
 import "aos/dist/aos.css";
 export default function Education() {
