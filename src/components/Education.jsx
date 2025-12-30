@@ -28,7 +28,7 @@ export default function Education() {
           <div className="space-y-6">
             <div className="flex items-start gap-4">
               <img 
-                src="https://placehold.co/64x64/10b981/ffffff?text=JIS"
+                src={JIS}
                 alt="JIS Logo"
                 className="w-16 h-16 rounded-full shadow-md hover:shadow-emerald-500/30 transition-shadow duration-300"
                 onError={(e) => {
