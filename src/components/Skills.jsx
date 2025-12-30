@@ -12,6 +12,9 @@ import {
   MySQL,
   MongoDB,
   Java,
+  node,
+  H2,
+  postman
 } from "../constants/Constant.jsx";
 import Image from "./Image.jsx";
 import AOS from 'aos';
