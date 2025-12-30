@@ -16,12 +16,26 @@ const ProjectData=[
     codeLink:"https://github.com/TuheliRay/Job-Board",
     liveLink:"https://job-board-six-beta.vercel.app/"
 },
+ {
+    title:'Spring Boot Student Management API',
+    description:"RESTful backend service for managing student records with full CRUD functionality, built using Spring Boot and H2 in-memory database.",
+    tags:["Java", "Spring Boot", "REST API", "H2 Database", "Backend"],
+    codeLink:"https://github.com/TuheliRay/Student-Data-Management-System",
+    liveLink:"https://student-data-management-system.vercel.app/"
+},
+{
+    title:'Anime Watchlist',
+    description:"Anime Watchlist lets users select anime and organize them into categories like ‘Watching’, ‘Plan to Watch’, or ‘Completed’ for easy tracking and management.",
+    tags:["React" , "Tailwind CSS"],
+    codeLink:"https://github.com/TuheliRay/Anime-Watchlist",
+    liveLink:"https://anime-watchlist-black.vercel.app/"
+},
     {
     title:'Portfolio Website',
     description:"A personal portfolio to showcase my skills and projects, built with a modern tech stack and a focus on design and user experience.",
     tags:['React' , 'Tailwind CSS' , 'Framer Motion'],
-    codeLink:"",
-    liveLink:""
+    codeLink:"https://github.com/TuheliRay/Resume",
+    liveLink:"https://tuheliray.github.io/Resume/"
 },
 {
     title:'Notes App',
@@ -36,13 +50,6 @@ const ProjectData=[
     tags:["React" , "Node.js" , "Express", "MySQL"],
     codeLink:"https://github.com/TuheliRay/Auth-System",
     liveLink:""
-},
-{
-    title:'Anime Watchlist',
-    description:"Anime Watchlist lets users select anime and organize them into categories like ‘Watching’, ‘Plan to Watch’, or ‘Completed’ for easy tracking and management.",
-    tags:["React" , "Tailwind CSS"],
-    codeLink:"https://github.com/TuheliRay/Anime-Watchlist",
-    liveLink:"https://anime-watchlist-black.vercel.app/"
 },
 {
     title:'Team Formation Tool',
