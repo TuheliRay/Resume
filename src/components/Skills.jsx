@@ -61,11 +61,13 @@ export default function Skills() {
           {/* Databases Card */}
           <div className="flex flex-col bg-slate-800 p-8 rounded-lg border border-slate-700 transition-all duration-300 hover:border-cyan-400 hover:-translate-y-2 hover:shadow-[0_0_15px_0] hover:shadow-cyan-400/30">
             <h3 className="text-2xl font-semibold text-transparent bg-clip-text bg-gradient-to-r from-emerald-400 via-teal-400 to-cyan-400 mb-8 text-center">
-              Databases 
+              Backend and Databases 
             </h3>
             <div className="flex flex-row flex-wrap justify-center gap-4">
+              <Image img={node} name="Node.js" />
               <Image img={MySQL} name="MySQL" />
               <Image img={MongoDB} name="MongoDB" />
+              <Image img={H2} name="H2 Database" />
             </div>
           </div>
 
@@ -77,6 +79,7 @@ export default function Skills() {
             <div className="flex flex-row flex-wrap justify-center gap-4">
               <Image img={Git} name="Git" />
               <Image img={Github} name="GitHub" />
+              <Image img={postman} name="Postman" />
             </div>
           </div>
         </div>
