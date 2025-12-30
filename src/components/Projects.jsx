@@ -1,7 +1,22 @@
 import ProjectCard from "./ProjectCard"
 import AOS from "aos";
 import "aos/dist/aos.css";
-const ProjectData=[{
+const ProjectData=[
+    {
+    title:'Whack-A-Mole Game',
+    description:"A fun and interactive Whack-A-Mole game built with React and Tailwind CSS, featuring responsive design and smooth animations.",
+    tags:["React" , "Tailwind CSS"],
+    codeLink:"https://github.com/TuheliRay/Whack-A-Mole",
+    liveLink:"https://whack-a-mole-nine-ruby.vercel.app/"
+},
+ {
+    title:'HN Job Board',
+    description:"Real-time developer job board powered by Hacker News API with efficient pagination and smooth browsing.",
+    tags:["React" , "Tailwind CSS"],
+    codeLink:"https://github.com/TuheliRay/Job-Board",
+    liveLink:"https://job-board-six-beta.vercel.app/"
+},
+    {
     title:'Portfolio Website',
     description:"A personal portfolio to showcase my skills and projects, built with a modern tech stack and a focus on design and user experience.",
     tags:['React' , 'Tailwind CSS' , 'Framer Motion'],
@@ -36,13 +51,6 @@ const ProjectData=[{
     codeLink:"https://github.com/TuheliRay/Team-formation-tool",
     liveLink:"https://team-formation-tool-red.vercel.app/"
 },
-{
-    title:'Music Player',
-    description:"A web-based Music Player that lets users play, pause, and organize their favorite songs with a simple and interactive interface.",
-    tags:["React" , "Tailwind CSS"],
-    codeLink:"https://github.com/TuheliRay/Music-Player",
-    liveLink:"https://music-player-navy-theta-43.vercel.app/"
-}
 ]
 export default function Projects(){
     return(
