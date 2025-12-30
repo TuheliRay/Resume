@@ -15,6 +15,7 @@ import JIS from "../assets/JIS.jpeg";
 import H2 from "../assets/H2.png";
 import postman from "../assets/postman.png";
 import node from "../assets/node.png";
+import springboot from "../assets/springboot.jpeg";
 export {
   C,
   CPP,
@@ -32,5 +33,6 @@ export {
   JIS,
   H2,
   postman , 
-  node
+  node , 
+  springboot
 };

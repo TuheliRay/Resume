@@ -14,7 +14,8 @@ import {
   Java,
   node,
   H2,
-  postman
+  postman , 
+  springboot
 } from "../constants/Constant.jsx";
 import Image from "./Image.jsx";
 import AOS from 'aos';
@@ -68,6 +69,7 @@ export default function Skills() {
             </h3>
             <div className="flex flex-row flex-wrap justify-center gap-4">
               <Image img={node} name="Node.js" />
+              <Image img={springboot} name="Spring Boot" />
               <Image img={MySQL} name="MySQL" />
               <Image img={MongoDB} name="MongoDB" />
               <Image img={H2} name="H2 Database" />
